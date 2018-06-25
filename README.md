@@ -24,8 +24,8 @@ Our project is derived from the original KeeWeb application. Our main improvemen
 | 需求分析阶段-需求规格说明书.doc     | Done |
 | 概要设计阶段-数据库设计说明书.doc   | Done |
 | 概要设计阶段-概要设计说明书.doc     | Done |
-| 概要设计阶段-组装测试计划.doc       | Not Yet |
-| 详细设计阶段-详细设计说明书.doc     | Not Yet |
+| 概要设计阶段-组装测试计划.doc       | Done |
+| 详细设计阶段-详细设计说明书.doc     | Done |
 | 详细设计阶段-测试计划.doc           | Not Yet |
 | 详细设计阶段-用户使用手册.doc       | Not Yet |
 | 测试阶段-单元测试报告.doc           | Not Yet |
